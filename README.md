@@ -29,8 +29,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/python-chatbot.git
-cd python-chatbot
+git clone https://github.com/yourusername/chatbot
+cd chatbot
 Install the required packages:
 
 bash
